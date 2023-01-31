@@ -3,6 +3,7 @@
     <head>
 
         <title>Boton de prueba</title>
+        <link href="css/estilos.css" rel="stylesheet" type="text/css">
 
     </head>
 
